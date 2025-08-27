@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Hello,World War II!")
+	fmt.Println("Scan repo!")
 }
