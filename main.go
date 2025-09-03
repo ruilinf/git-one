@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Scan repo!")
+	fmt.Println("Scan permission!")
 }
